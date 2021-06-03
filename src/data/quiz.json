@@ -1,0 +1,90 @@
+
+{
+  "data": [
+    {
+      "question": "ibu kota indonesia saat ini ?",
+      "choices": ["jakarta", "lampung", "medan", "surabaya"],
+      "answer": "jakarta"
+    },
+    {
+      "question": "presiden pertama indonesia ?",
+      "choices": ["jokowi", "megawati", "soekarno", "SBY"],
+      "answer": "soekarno"
+    },
+    {
+      "question": "hokage kedua dalam anime naruto adalah ?",
+      "choices": ["tobirama", "naruto", "hasirama", "sunade"],
+      "answer": "tobirama"
+    },
+    {
+      "question": "tanggal kemerdakaan negara indonesia ?",
+      "choices": ["16", "17", "18", "19"],
+      "answer": "17"
+    },
+    {
+      "question": "ibu kota dari provinsi lampung ?",
+      "choices": ["tanggamus", "bandar lampung", "prengsewu", "metro"],
+      "answer": "bandar lampung"
+    },
+    {
+      "question": "pemenang UCL eropa tahun 2020/2021 ?",
+      "choices": ["manchester city", "chelesea", "manchester united", "real madrid"],
+      "answer": "chelesea"
+    },
+    {
+      "question": "suku asli negara amerika ?",
+      "choices": ["sunda", "aborigin", "asmat", "indian"],
+      "answer": "indian"
+    },
+    {
+      "question": "jumlah provinsi di indonesia sekarang ?",
+      "choices": ["31", "32", "33", "34"],
+      "answer": "34"
+    },
+    {
+      "question": "jumlah pemain bola voli ?",
+      "choices": ["6", "8", "10", "12"],
+      "answer": "12"
+    },
+    {
+      "question": "jumlah pemain bola voli1 ?",
+      "choices": ["6", "8", "10", "12"],
+      "answer": "12"
+    },
+    {
+      "question": "jumlah pemain bola voli2 ?",
+      "choices": ["6", "8", "10", "12"],
+      "answer": "12"
+    },
+    {
+      "question": "jumlah pemain bola voli3 ?",
+      "choices": ["6", "8", "10", "12"],
+      "answer": "12"
+    },
+    {
+      "question": "jumlah pemain bola voli4 ?",
+      "choices": ["6", "8", "10", "12"],
+      "answer": "12"
+    },
+    {
+      "question": "jumlah pemain bola voli5 ?",
+      "choices": ["6", "8", "10", "12"],
+      "answer": "12"
+    },
+    {
+      "question": "jumlah pemain bola voli6 ?",
+      "choices": ["6", "8", "10", "12"],
+      "answer": "12"
+    },
+    {
+      "question": "jumlah pemain bola voli7 ?",
+      "choices": ["6", "8", "10", "12"],
+      "answer": "12"
+    },
+    {
+      "question": "jumlah pemain bola voli8 ?",
+      "choices": ["6", "8", "10", "12"],
+      "answer": "12"
+    }
+  ]
+}
