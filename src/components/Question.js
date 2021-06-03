@@ -49,7 +49,7 @@ const Question = ({ data, onAnswerUpdate, numberOfQuestions, activeQuestion, onS
     <div style={{display:'table-row'}}>
     <div >
     <h5 style={{textAlign:'center',marginBottom:20,fontSize: 30,}}>{formatTime(time)}</h5>
-    <h3 style={{textAlign:'center',color:'green',fontWeight:'bold'}}>Waktu Anda 1 Menit untuk mengerjakan</h3>
+    <h3 style={{textAlign:'center',color:'green',fontWeight:'bold'}}>Waktu Anda 1 Menit Untuk Mengerjakan 10 Soal</h3>
     </div>
     <div className="card">
       <div className="card-content">
